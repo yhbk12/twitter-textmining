@@ -10,5 +10,5 @@ In this case the answer is no - but that's partially down to lack of resources. 
 
 Regardless, this was a great introduction to sentiment analysis and data science in general. It set the stage for many more interesting analyses to come.
 
---> Submitted as course project for MSCI 446 - Data Mining and Warehousing, at UW
+--> **Submitted as course project for MSCI 446 - Data Mining and Warehousing, at UW**
 
