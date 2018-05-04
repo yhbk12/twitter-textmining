@@ -83,10 +83,10 @@ def search_twitter_return_ev(query, start_date, end_date):
 
 
     # Twitter API authentication
-    consumer_key = 'GyfyFJEkU6cyGBq0PPLjHlvz0'
-    consumer_secret = 'q3ghkBA8i1qheGFFnpd5mmCmlAlrNIk02wqTqeoQ2gERHiwqLw'
-    access_token = '855727868-h0MenCCakLLaz6engeaIm2mh77j3uoOnN5DIXV07'
-    access_token_secret = 'c4TWPLTCmdx8ijhXS3gkH59Wcv8PGJ8BUFDTFXfT6hMiS'
+    consumer_key = 'INSERT_KEY'
+    consumer_secret = 'INSERT_CONSUMER_SECRET'
+    access_token = 'INSERT_TOKEN'
+    access_token_secret = 'INSERT_TOKEN_SECRET'
 
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token, access_token_secret)
