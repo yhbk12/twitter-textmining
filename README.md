@@ -10,5 +10,5 @@ In this case the answer is no - but that's partially down to lack of resources. 
 
 Regardless, this was a great introduction to sentiment analysis and data science in general. It set the stage for many more interesting analyses to come.
 
---> **This project was built as a passion project, then modified to be handed in as the course summative project for _Data Warehousing and Mining_ at UW.**
+--> **This project was sumbmitted as the course summative project for _Data Warehousing and Mining_ at UW.**
 
